@@ -8,18 +8,23 @@
 import SwiftUI
 
 struct CustomButtonView: View {
+    
+    var title: String
+    var color: Color
+    
     var body: some View {
-        Button("ALL CAPS") {
+        Button(title) {
             /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
         }
-        .padding()
+        .padding(12)
         .fontWeight(.bold)
-        .background(Color.blue)
+        .frame(maxWidth: /*@START_MENU_TOKEN@*/.infinity/*@END_MENU_TOKEN@*/)
+        .background(color)
         .foregroundColor(.white)
         .cornerRadius(12)
     }
 }
 
 #Preview {
-    CustomButtonView()
+    CustomButtonView(title: "Button Title", color: .purple)
 }

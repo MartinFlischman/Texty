@@ -13,18 +13,22 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
+
             Text(userText)
                 .font(.largeTitle)
                 .padding(.bottom, 100)
             
-            TextField("Enter your text here...", text: $userText)
+            TextField("Type here...", text: $userText)
                 .font(.title3)
                 .foregroundColor(.secondary)
                 .padding(.bottom, 20)
-            
+
             HStack {
-                CustomButtonView()
+                CustomButtonView(title: "ALL CAPS", color: .orange)
+                CustomButtonView(title: "1st Letter", color: .blue)
+                CustomButtonView(title: "lowercase", color: .green)
             }
+            
         }
         .padding()
     }
