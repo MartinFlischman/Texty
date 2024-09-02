@@ -24,9 +24,24 @@ struct ContentView: View {
                 .padding(.bottom, 20)
 
             HStack {
-                CustomButtonView(title: "ALL CAPS", color: .orange)
-                CustomButtonView(title: "1st Letter", color: .blue)
-                CustomButtonView(title: "lowercase", color: .green)
+                
+                Button(action: {
+                    
+                }) {
+                    CustomButtonView(title: "ALL CAPS", color: .orange)
+                }
+                
+                Button(action: {
+                    
+                }) {
+                    CustomButtonView(title: "1st Letter", color: .blue)
+                }
+                
+                Button(action: {
+                    
+                }) {
+                    CustomButtonView(title: "lowercase", color: .green)
+                }
             }
             
         }

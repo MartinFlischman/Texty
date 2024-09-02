@@ -11,7 +11,7 @@
 		5BAA5D042C85C19D0066B259 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BAA5D032C85C19D0066B259 /* ContentView.swift */; };
 		5BAA5D062C85C19F0066B259 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BAA5D052C85C19F0066B259 /* Assets.xcassets */; };
 		5BAA5D092C85C19F0066B259 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BAA5D082C85C19F0066B259 /* Preview Assets.xcassets */; };
-		5BAA5D102C85D0A70066B259 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BAA5D0F2C85D0A70066B259 /* CustomButtonView.swift */; };
+		5BBDF1862C85EAB0002FA2F7 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBDF1852C85EAB0002FA2F7 /* CustomButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		5BAA5D032C85C19D0066B259 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5BAA5D052C85C19F0066B259 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BAA5D082C85C19F0066B259 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		5BAA5D0F2C85D0A70066B259 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
+		5BBDF1852C85EAB0002FA2F7 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,7 +37,6 @@
 		5BAA5CF52C85C19D0066B259 = {
 			isa = PBXGroup;
 			children = (
-				5BAA5D0F2C85D0A70066B259 /* CustomButtonView.swift */,
 				5BAA5D002C85C19D0066B259 /* Texty */,
 				5BAA5CFF2C85C19D0066B259 /* Products */,
 			);
@@ -56,6 +55,7 @@
 			children = (
 				5BAA5D012C85C19D0066B259 /* TextyApp.swift */,
 				5BAA5D032C85C19D0066B259 /* ContentView.swift */,
+				5BBDF1852C85EAB0002FA2F7 /* CustomButtonView.swift */,
 				5BAA5D052C85C19F0066B259 /* Assets.xcassets */,
 				5BAA5D072C85C19F0066B259 /* Preview Content */,
 			);
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BAA5D102C85D0A70066B259 /* CustomButtonView.swift in Sources */,
+				5BBDF1862C85EAB0002FA2F7 /* CustomButtonView.swift in Sources */,
 				5BAA5D042C85C19D0066B259 /* ContentView.swift in Sources */,
 				5BAA5D022C85C19D0066B259 /* TextyApp.swift in Sources */,
 			);
