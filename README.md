@@ -1,4 +1,4 @@
-![App Icon](Texty/Assets.xcassets/AppIcon.appiconset/app-icon.png)
+<img src="Texty/Assets.xcassets/AppIcon.appiconset/app-icon.png" width="128" height="128" alt="App Icon">
 
 # TextyText App
 
