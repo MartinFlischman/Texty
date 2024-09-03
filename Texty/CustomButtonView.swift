@@ -16,7 +16,7 @@ struct CustomButtonView: View {
         Text(title)
             .padding(12)
             .fontWeight(.bold)
-            .frame(maxWidth: .infinity)
+            .frame(maxWidth: .infinity, minHeight: 44)
             .background(color)
             .foregroundColor(.white)
             .cornerRadius(12)
