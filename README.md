@@ -1,4 +1,4 @@
-![App Icon](/Users/martin/Library/Mobile Documents/com~apple~CloudDocs/Dev/GitHub/Texty/Texty/Assets.xcassets/AppIcon.appiconset/app-icon.png)
+![App Icon](Assets/app-icon.png)
 
 # TextyText App
 
@@ -23,5 +23,5 @@
 
 ## Screenshots
 
-![Screenshot 1](/Users/martin/Library/Mobile Documents/com~apple~CloudDocs/Dev/GitHub/Texty/Texty/Assets.xcassets/phone-app.imageset/phone-app.png)
-![Screenshot 2](/Users/martin/Library/Mobile Documents/com~apple~CloudDocs/Dev/GitHub/Texty/Texty/Assets.xcassets/app-screen.imageset/app-screen.png)
+![Screenshot 1](Assets/screenshot1.png)
+![Screenshot 2](Assets/screenshot2.png)
