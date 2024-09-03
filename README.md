@@ -23,5 +23,5 @@
 
 ## Screenshots
 
-![Screenshot 1](Assets/screenshot1.imageset/screenshot1.png)
-![Screenshot 2](Assets/screenshot2.imageset/screenshot2.png)
+![Screenshot 1](Assets.xcassets/screenshot1.imageset/screenshot1.png)
+![Screenshot 1](Assets.xcassets/screenshot2.imageset/screenshot2.png)
