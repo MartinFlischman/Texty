@@ -1,4 +1,4 @@
-![App Icon](Assets.xcassets/AppIcon.appiconset/app-icon.png)
+![App Icon](Texty/Assets.xcassets/AppIcon.appiconset/app-icon.png)
 
 # TextyText App
 
@@ -23,5 +23,5 @@
 
 ## Screenshots
 
-![Screenshot 1](Assets.xcassets/screenshot1.imageset/screenshot1.png)
-![Screenshot 1](Assets.xcassets/screenshot2.imageset/screenshot2.png)
+![Screenshot 1](Texty/Assets.xcassets/screenshot1.imageset/screenshot1.png)
+![Screenshot 1](Texty/Assets.xcassets/screenshot2.imageset/screenshot2.png)
