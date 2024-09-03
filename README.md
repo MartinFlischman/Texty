@@ -1,6 +1,6 @@
 <img src="Texty/Assets.xcassets/AppIcon.appiconset/app-icon.png" width="128" height="128" alt="App Icon">
 
-# TextyText App
+# Texty_ App
 
 **Texty_** is a SwiftUI-based app designed to transform user input text into different formats and provide additional text management features.
 
