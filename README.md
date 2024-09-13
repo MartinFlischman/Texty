@@ -19,7 +19,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/texty-app.git
+   git clone https://github.com/MartinFlischman/Texty.git
 
 ## Screenshots
 
